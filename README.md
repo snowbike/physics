@@ -1,23 +1,14 @@
-# JupyterLite Demo
+# 02023 Sharpen physics, python, and JupyterLite for Matt
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
-
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+After reading Sean Carroll's "The Biggest Ideas in the Universe" (and purchasing Thorne & Blandford's (TB) "Modern Classical Physics" (in hardback) and also never getting into MTW's Gravitation), I decided to work through TB then maybe MTW. TB is targetted to first year physics grad students. To make sure I'm still sharp, I thought I might work through my undergrad physics book quickly but thoroughly - to make it interesting, I'll work through it in a jupyter notebook. I found jupyterlite for ease in global access and got that installed in my github area fairly easily (I had to modify a few settings in github to get it to deploy, those were well documented.) I think I'll use Halliday & Resnick (HR, 4th edition - the one I used in 1989 at Southwestern University).
 
 ## ✨ Try it in your browser ✨
 
 **https://snowbike.github.io/physics/**
 
+## Here is a little leftover documentation
+
 ➡️ **https://jupyterlite.github.io/demo**
-
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
-
-## Requirements
-
-JupyterLite is being tested against modern web browsers:
-
-- Firefox 90+
-- Chromium 89+
 
 ## Deploy your JupyterLite website on GitHub Pages
 
@@ -25,11 +16,11 @@ Check out the guide on the JupyterLite documentation: https://jupyterlite.readth
 
 ## Further Information and Updates
 
-For more info, keep an eye on the JupyterLite documentation:
+JupyterLite documentation:
 
 - How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
 - Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
 
-## Just an edit
+## Thoughts
 
-Edit by Matt - update everything?
+I imagine I'll have to get LaTeX sorted here - hopefully that isn't too bad. And can I use emacs as the editor in github? browser based emacs so I'm not machine-dependent? Hmm. Another adventure.
