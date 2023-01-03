@@ -25,4 +25,4 @@ JupyterLite documentation:
 
 It seems that files created within jupyterlite aren't copied out into the github hierarchy? Perhaps it takes some time to copy over / propagate?
 
-I imagine I'll have to get LaTeX sorted here - hopefully that isn't too bad. And can I use emacs as the editor in github? browser based emacs so I'm not machine-dependent? Hmm. Another adventure.
+I imagine I'll have to get LaTeX sorted here - hopefully that isn't too bad. And can I use emacs as the editor in github? browser based emacs so I'm not machine-dependent? Hmm. Another adventure. Looks like Math Jax 2 https://jupyterlite.readthedocs.io/en/latest/howto/configure/latex.html
